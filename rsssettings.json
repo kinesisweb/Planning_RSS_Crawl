@@ -1,0 +1,14 @@
+{
+	"searchTerms": ["one","two","three","construction"],
+	"domain": "elecrss.com",
+	"searchUrl": "http://planning.cornwall.gov.uk/online-applications/search.do?action=weeklyList",
+	"root": "http://planning.cornwall.gov.uk",
+	"RSSTitle": "Pro-Electric RSS Feed: New Cornwall Applications",
+	"RSSImage": { "url": "/img/channel.jpg", "title": "Pro-Electric RSS Feed: New Cornwall Applications", "link": "http://pro-electric.co.uk", "width": "144", "height":"144"},
+	"RSSLink": "http://pro-electric.co.uk",
+	"RSSttl": "500", 
+	"RSSDescription": "RSS feed for Cornwall Council new planning applications.",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246",
+	"port": 8090
+	
+}
